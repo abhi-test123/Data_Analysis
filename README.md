@@ -5,7 +5,7 @@
 
 * Assignment in Excel
 * Detailed Analysis in PDF
-* Resume
+* My Resume.
 
 ### Remote Links  for all the documents are below:
 * **[Resume Link](https://drive.google.com/file/d/1yG1ZFgcG74wFdwttlTnJGG3_nZNLW8Wd/view?usp=sharing)**
