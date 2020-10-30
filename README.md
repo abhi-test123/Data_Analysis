@@ -3,8 +3,8 @@
 
 ### This Repository Includes my Assignment works and other file:
 
-* Assignment in Excel
-* Detailed Analysis in PDF
+* Assignment in Excel.
+* Detailed Analysis in PDF.
 * My Resume.
 
 ### Remote Links  for all the documents are below:
